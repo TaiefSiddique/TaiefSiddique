@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Taief, I'm a passionate Programmer ans Continuous Learner. Currently I'm working with MERN stack. My plan is to learn implementing microservices and later learning about deploying them. Very Welcome to my GitHub Profile.
+Hi 👋, I'm Taief, I'm a passionate Programmer and Continuous Learner. Currently I'm working with MERN stack. My plan is to learn about implementing microservices and later on deploying them. Wish me luck and a Very Welcome to my GitHub Profile.
 
 
 ## 🌐 Socials:
